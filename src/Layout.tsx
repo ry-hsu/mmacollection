@@ -1,12 +1,14 @@
+/**
+ * Navigation bar
+ */
 import { Outlet, Link, NavLink } from "react-router-dom"
 import './Header.css'
 
+/**
+ * 
+ * @returns div of nav and outlet for navigation with browserrouter
+ */
 function Layout() {
-
-    const handleClick = () => {
-
-    }
-
     return (
         <div>
             <nav className="Nav">
