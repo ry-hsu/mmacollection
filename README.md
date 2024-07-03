@@ -18,16 +18,18 @@ Otherwise, to get the dev environment and to run on local server:
 
 # Walkthrough
  To use this application. Choose a department from the department selector.
- ![alt text]([http://github.com/ry-hsu/mmacollection/](https://github.com/ry-hsu/mmacollection/blob/main/departmentSelector.png)
+ ![screenshot](departmentSelector.png)
 
  After selecting a department browse the artworks. You can click the Learn More button on a card to launch the details of an artwork. You can also click Picture to launch a full size picture of the artwork.
- ![alt text]([http://github.com/ry-hsu/mmacollection/](https://github.com/ry-hsu/mmacollection/blob/main/artCard.png)
+ ![screenshot](artCard.png)
 
- In the detail view you can add the art to favorites:
- ![alt text]([http://github.com/ry-hsu/mmacollection/](https://github.com/ry-hsu/mmacollection/blob/main/addToFav.png)
 
- In the favorites page you can remove a favorite object by pressing remove favorite
- ![alt text]([http://github.com/ry-hsu/mmacollection/](https://github.com/ry-hsu/mmacollection/blob/main/favoriteArt.png)
+ In the detail view you can add the art to favorites.
+ 
+ ![screenshot](addToFav.png)
+
+ In the favorites page you can remove a favorite object by pressing remove favorite.
+ ![screenshot](favoritedArt.png)
 
 # React + TypeScript + Vite
 
