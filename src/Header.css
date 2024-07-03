@@ -1,0 +1,17 @@
+.Header {
+    display: grid;
+    grid-template-areas: "logo nav";
+}
+
+.Nav {
+    grid-area: nav;
+    display: grid;
+    grid-template-columns: repeat(2,auto);
+    align-items: center;
+    justify-items: center;
+}
+
+nav li { 
+    display: inline-block; 
+    margin-right: 20px; /* Adjust the value as needed */ 
+}
